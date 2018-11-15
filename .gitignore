@@ -1,0 +1,37 @@
+# ignore python
+
+*.npy
+*.vector
+*.tgz
+*.gz
+*.zip
+*.model
+*.Morvan
+*.USER-PC
+*.bin
+*.meta
+*.meta.*
+*.index
+*.pbtxt
+*.tfrecord
+*.pb
+
+*checkpoint*
+
+*.data*
+
+# ignore java
+*.class
+*.jar
+*.war
+*.ear
+
+# ignore target
+target
+
+# ignore eclipse files
+.idea
+.project
+.classpath
+.settings
+.metadata
